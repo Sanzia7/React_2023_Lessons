@@ -1,0 +1,40 @@
+.count {
+   width: 90%;
+   padding: 7px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   border: 1px solid olive;
+   background-color: rgb(151, 151, 74);
+   border-radius: 7px;
+   box-shadow: 4px 4px 5px rgb(84, 83, 83);
+   color: darkgreen;
+   font-size: 35px;
+   font-style: italic;
+   font-weight: 600;
+   text-align: center;
+   align-items: center;
+   margin-bottom: 20px;
+
+}
+
+.count button {
+   padding: 7px auto;
+   height: 40px;
+   color: rgb(8, 16, 161);
+   font-size: 30px;
+   font-weight: 600;
+   border-radius: 7px;
+   border: 2px solid rgb(78, 240, 86);
+   background-color: rgb(15, 245, 15);
+   box-shadow: 3px 4px 3px rgb(92, 91, 90);
+   cursor: pointer;  
+}
+
+.count button:hover {
+   background-color: rgb(56, 101, 224);
+   border-radius: 7px;
+   border: 2px solid rgb(6, 75, 194);
+   box-shadow: 3px 4px 3px rgb(53, 2, 70);
+   color: azure;
+}

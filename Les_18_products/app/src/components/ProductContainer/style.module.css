@@ -1,0 +1,9 @@
+.container{
+   width: 90%;
+   display: flex;
+   gap: 10px;
+   flex-wrap: wrap;
+   background-color: rgb(114, 194, 167);
+   border-radius: 12px;
+   box-shadow: 4px 5px 4px grey;
+}

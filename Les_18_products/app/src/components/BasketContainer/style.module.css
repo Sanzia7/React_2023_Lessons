@@ -1,0 +1,28 @@
+.basket {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 17px;
+   background-color: khaki;
+   width: 90%;
+   border-radius: 12px;
+   box-shadow: 4px 4px 4px grey;
+   margin-bottom: 10px;
+}
+
+/* .count {
+   padding: 10px;
+   width: 90%;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   border: 1px solid olive;
+   background-color: rgb(151, 151, 74);
+   border-radius: 7px;
+   box-shadow: 4px 4px 5px rgb(84, 83, 83);
+   color: darkgreen;
+   font-size: 30px;
+   font-style: italic;
+   text-align: center;
+   align-items: center;
+   margin-bottom: 20px;
+} */

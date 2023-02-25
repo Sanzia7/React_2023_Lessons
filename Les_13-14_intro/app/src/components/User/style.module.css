@@ -1,0 +1,18 @@
+.test{
+   width: 70px;
+   height: 70px;
+   background-color: rgb(82, 82, 199);
+   border-radius: 50px;
+}
+.card{
+   width: 250px;
+   height: 250px;
+   background-color: darksalmon;
+   margin: 50px;
+   padding: 15px;
+   border-radius: 12px;
+   box-shadow: 4px 4px 4px gray;
+   font-size: 22px;
+   color: darkblue;
+
+}
